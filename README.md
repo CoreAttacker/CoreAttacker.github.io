@@ -1,2 +1,2 @@
 # CoreAttacker.github.io
-# Blog
+Blog
